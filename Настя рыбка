@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Любишь меня?</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: #f0f8ff;
+      font-family: sans-serif;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 30px;
+    }
+    .buttons {
+      position: relative;
+      height: 100px;
+    }
+    button {
+      font-size: 1.2em;
+      padding: 10px 20px;
